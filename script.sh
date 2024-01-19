@@ -1,5 +1,4 @@
 echo "Hello Shell-Script"
-#! /usr/bin/bash
 
 mkdir shelllearn
 cd shelllearn
